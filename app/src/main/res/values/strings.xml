@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">database-demo</string>
+    <string name="create_table_text">Create Table</string>
+    <string name="fetch_data_text">Fetch Data</string>
+    <string name="insert_data_text">Insert Data</string>
+    <string name="enter_id_text">Enter Id</string>
+    <string name="enter_name_text">Enter Name</string>
+</resources>
